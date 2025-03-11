@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/p-navya/LeetCode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/p-navya/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/p-navya/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/p-navya/LeetCode/tree/master/0198-house-robber) |
 ## Binary Search
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/p-navya/LeetCode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/p-navya/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/p-navya/LeetCode/tree/master/0174-dungeon-game) |
+| [0198-house-robber](https://github.com/p-navya/LeetCode/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
