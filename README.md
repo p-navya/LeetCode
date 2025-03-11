@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/p-navya/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/p-navya/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/p-navya/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/p-navya/LeetCode/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/p-navya/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/p-navya/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/p-navya/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/p-navya/LeetCode/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -634,4 +636,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/p-navya/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/p-navya/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/p-navya/LeetCode/tree/master/0197-rising-temperature) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/p-navya/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/p-navya/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
