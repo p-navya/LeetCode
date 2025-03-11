@@ -1,30 +1,41 @@
 class Solution:
-  def ladderLength(
-      self,
-      beginWord: str,
-      endWord: str,
-      wordList: list[str],
-  ) -> int:
-    wordSet = set(wordList)
-    if endWord not in wordSet:
-      return 0
+    def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
+        # Check if endWord is not in wordList, return 0
+        if endWord not in wordList:
+            return 0
 
-    q = collections.deque([beginWord])
+        # Initialize defaultdict to store neighbors of each word pattern
+        nei = collections.defaultdict(list)
+        # Append beginWord to wordList
+        wordList.append(beginWord)
+        # Generate patterns and store neighbors
+        for word in wordList:
+            for j in range(len(word)):
+                pattern = word[:j] + "*" + word[j + 1 :]
+                nei[pattern].append(word)
 
-    step = 1
-    while q:
-      for _ in range(len(q)):
-        wordList = list(q.popleft())
-        for i, cache in enumerate(wordList):
-          for c in string.ascii_lowercase:
-            wordList[i] = c
-            word = ''.join(wordList)
-            if word == endWord:
-              return step + 1
-            if word in wordSet:
-              q.append(word)
-              wordSet.remove(word)
-          wordList[i] = cache
-      step += 1
-
-    return 0
+        # Initialize set to store visited words and queue for BFS traversal
+        visit = set([beginWord])
+        q = deque([beginWord])
+        # Initialize result to track transformation length
+        res = 1
+        
+        # Perform BFS
+        while q:
+            # Iterate through words at the current level
+            for i in range(len(q)):
+                word = q.popleft()
+                # If word is equal to endWord, return result
+                if word == endWord:
+                    return res
+                # Generate patterns and explore neighbors
+                for j in range(len(word)):
+                    pattern = word[:j] + "*" + word[j + 1 :]
+                    for neiWord in nei[pattern]:
+                        if neiWord not in visit:
+                            visit.add(neiWord)
+                            q.append(neiWord)
+            # Increment result for next level
+            res += 1
+        # If endWord not found, return 0
+        return 0
