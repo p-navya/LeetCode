@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/p-navya/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/p-navya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/p-navya/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/p-navya/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/p-navya/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/p-navya/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/p-navya/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/p-navya/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/p-navya/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/p-navya/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/p-navya/LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/p-navya/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
