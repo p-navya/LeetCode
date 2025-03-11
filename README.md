@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/p-navya/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/p-navya/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/p-navya/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/p-navya/LeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/p-navya/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/p-navya/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/p-navya/LeetCode/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/p-navya/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
