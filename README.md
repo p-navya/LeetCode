@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/p-navya/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/p-navya/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/p-navya/LeetCode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/p-navya/LeetCode/tree/master/0190-reverse-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/p-navya/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/p-navya/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/p-navya/LeetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/p-navya/LeetCode/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
